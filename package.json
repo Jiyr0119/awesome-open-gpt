@@ -1,0 +1,15 @@
+{
+  "name": "awesome-open-gpt",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">awesome-open-gpt/gpt相关开源项目合集</h2>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev vuedocs",
+    "docs:build": "vuepress build vuedocs"
+  },
+  "author": "",
+  "license": "ISC"
+}
