@@ -1,9 +1,4 @@
 <template><div><h2 align="center">awesome-open-gpt/gpt相关开源项目合集</h2>
-<div align="center">
-<p><a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"><ExternalLinkIcon/></a>
-<a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-<a href=""><img src="https://img.shields.io/badge/status-active-success.svg" alt="Status"></a></p>
-</div>
 <p><img src="@source/images/gpt-header.jpeg" alt="ChatGPT"></p>
 <ul>
 <li><strong>awesome-open-gpt</strong>是关于GPT开源精选项目的合集（140+） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。</li>
@@ -854,8 +849,8 @@
 <td>分享插件</td>
 <td><a href="https://github.com/domeccleston/sharegpt" target="_blank" rel="noopener noreferrer">sharegpt<ExternalLinkIcon/></a></td>
 <td>879</td>
-<td>轻松地共享ChatGPT对话的永久链接到https://sharegpt.com/</td>
-<td>1.一键分享自己ChatGPT对话到https://sharegpt.com</td>
+<td>轻松地共享ChatGPT对话的永久链接到<a href="https://sharegpt.com/" target="_blank" rel="noopener noreferrer">https://sharegpt.com/<ExternalLinkIcon/></a></td>
+<td>1.一键分享自己ChatGPT对话到<a href="https://sharegpt.com" target="_blank" rel="noopener noreferrer">https://sharegpt.com<ExternalLinkIcon/></a></td>
 </tr>
 <tr>
 <td>阅读插件</td>
@@ -1288,25 +1283,6 @@
 </tr>
 </tbody>
 </table>
-<hr>
-<h2 id="相关资料" tabindex="-1"><a class="header-anchor" href="#相关资料" aria-hidden="true">#</a> 相关资料</h2>
-<ul>
-<li><a href="https://github.com/yzfly/awesome-chatgpt-zh" target="_blank" rel="noopener noreferrer">ChatGPT 中文指南<ExternalLinkIcon/></a></li>
-<li><a href="https://github.com/nichtdax/awesome-totally-open-chatgpt" target="_blank" rel="noopener noreferrer">开源-chatgpt-替代品列表<ExternalLinkIcon/></a></li>
-<li><a href="https://github.com/humanloop/awesome-chatgpt" target="_blank" rel="noopener noreferrer">ChatGPT工具，演示，文档列表<ExternalLinkIcon/></a></li>
-</ul>
-<hr>
-<h2 id="贡献" tabindex="-1"><a class="header-anchor" href="#贡献" aria-hidden="true">#</a> 贡献</h2>
-<p>这个awesome-open-gpt是我个人收集的关于GPT的有趣的开源项目，热烈欢迎你的贡献和建议，提交PR。</p>
-<hr>
-<h2 id="技术交流" tabindex="-1"><a class="header-anchor" href="#技术交流" aria-hidden="true">#</a> 技术交流</h2>
-<p><img src='@source/images/qrcode.jpeg' width=30%  alt=""/><img src='@source/images/group_qrcode.jpeg' width=30%  alt=""/></p>
-<p>加群前先看：</p>
-<ul>
-<li>纯技术交流群，主要分享和交流GPT开源项目或者工具，欢迎技术同学加入</li>
-<li>还不知道怎么使用GPT的不用进了</li>
-<li>想通过群里推广卖号代充的不用进了</li>
-</ul>
 <hr>
 </div></template>
 
