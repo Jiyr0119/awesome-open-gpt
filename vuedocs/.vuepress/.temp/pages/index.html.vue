@@ -1,10 +1,5 @@
 <template><div><h2 align="center">awesome-open-gpt/gpt相关开源项目合集</h2>
 <p><img src="@source/images/gpt-header.jpeg" alt="ChatGPT"></p>
-<ul>
-<li><strong>awesome-open-gpt</strong>是关于GPT开源精选项目的合集（140+） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。</li>
-<li>awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。</li>
-<li>awesome-open-gpt会持续更新，希望有更多优秀的GPT相关项目涌现！！！<strong>并且每天会自动更新点赞数（自动更新点赞数的脚本也是利用ChatGPT写的）</strong>。</li>
-</ul>
 <!-- TOC -->
 <ul>
 <li><a href="#%E7%B2%BE%E9%80%89%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86">精选开源项目合集</a>
