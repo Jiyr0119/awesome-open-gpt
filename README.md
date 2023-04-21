@@ -1,5 +1,5 @@
 <h2 align="center">awesome-open-gpt/gpt相关开源项目合集</h2>
-        
+
 <div align="center">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -7,45 +7,39 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 </div>
 
-
 ![ChatGPT](./images/gpt-header.jpeg)
 
 - **awesome-open-gpt**是关于GPT开源精选项目的合集（140+） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
 - awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
 - awesome-open-gpt会持续更新，希望有更多优秀的GPT相关项目涌现！！！**并且每天会自动更新点赞数（自动更新点赞数的脚本也是利用ChatGPT写的）**。
 
-
 <!-- TOC -->
-  * [精选开源项目合集](#精选开源项目合集)
-    * [GPT镜像平替](#gpt镜像平替)
-    * [GTP编程语言客户端](#gtp编程语言客户端)
-    * [GPT自动化🔥🔥🔥](#gpt自动化)
-    * [第三方机器人接入](#第三方机器人接入)
-    * [GPT工具](#gpt工具)
-      * [GPT工具-文档](#gpt工具-文档)
-      * [GPT工具-编程](#gpt工具-编程)
-      * [GPT工具-通用](#gpt工具-通用)
-      * [GPT工具-音视频](#gpt工具-音视频)
-      * [GPT工具-其他](#gpt工具-其他)
-    * [GPT插件](#gpt插件)
-      * [GPT插件-官方](#gpt插件-官方)
-      * [GPT插件-浏览器](#gpt插件-浏览器)
-      * [GPT插件-第三方应用](#gpt插件-第三方应用)
-    * [GPT开源平替机器人](#gpt开源平替机器人)
-    * [专业领域机器人](#专业领域机器人)
-    * [Prompt对话指令](#prompt对话指令)
-    * [其他（平台、逆向工程）](#其他平台逆向工程)
-  * [相关资料](#相关资料)
-  * [贡献](#贡献)
+- [精选开源项目合集](#精选开源项目合集)
+  - [GPT镜像平替](#gpt镜像平替)
+  - [GTP编程语言客户端](#gtp编程语言客户端)
+  - [GPT自动化🔥🔥🔥](#gpt自动化)
+  - [第三方机器人接入](#第三方机器人接入)
+  - [GPT工具](#gpt工具)
+    - [GPT工具-文档](#gpt工具-文档)
+    - [GPT工具-编程](#gpt工具-编程)
+    - [GPT工具-通用](#gpt工具-通用)
+    - [GPT工具-音视频](#gpt工具-音视频)
+    - [GPT工具-其他](#gpt工具-其他)
+  - [GPT插件](#gpt插件)
+    - [GPT插件-官方](#gpt插件-官方)
+    - [GPT插件-浏览器](#gpt插件-浏览器)
+    - [GPT插件-第三方应用](#gpt插件-第三方应用)
+  - [GPT开源平替机器人](#gpt开源平替机器人)
+  - [专业领域机器人](#专业领域机器人)
+  - [Prompt对话指令](#prompt对话指令)
+  - [其他（平台、逆向工程）](#其他平台逆向工程)
+- [相关资料](#相关资料)
+- [贡献](#贡献)
 <!-- TOC -->
 
 ## 精选开源项目合集
 
-
 ### GPT镜像平替
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -71,11 +65,7 @@
 | ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 1.0k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
 | ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 555 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
 
-
 ### GTP编程语言客户端
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -91,11 +81,7 @@
 | Android-ChatGPT客户端 | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 安卓的ChatGPT-SDK |  |
 | .Net-ChatGPT客户端 | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI和DALL-E的dotnet SDK |  |
 
-
 ### GPT自动化🔥🔥🔥
-
-
-
 
 | 名称        | github地址                                                                         | 点赞数   | 简介                          | 功能                                                                                                                             |
 |-----------|----------------------------------------------------------------------------------|-------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -105,11 +91,7 @@
 | GPT自动化-04 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui)                   | 235   | AutoGPT的图形用户界面              |                                                                                                                                |
 | GPT自动化-插件 | [Auto-GPT-Plugins🤔](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 176   | AutoGPT的插件                  | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！!                                                                                                   |
 
-
 ### 第三方机器人接入
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -131,14 +113,9 @@
 | Slack-ChatGPT机器人 | [myGPTReader](https://github.com/madawei2699/myGPTReader) | 3.6k | myGPTReader 是一个 Slack 机器人。 | 1.可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 chatGPT 进行总结。它还可以通过语音与你交谈 |
 | Teams-ChatGPT机器人 | [openai-teams-bot](https://github.com/formulahendry/openai-teams-bot) | 87 | 一个OpenAI Teams Bot应用程序，让你在微软Teams中使用OpenAI API聊天，类似于ChatGPT Teams Bot应用程序。 |  |
 
-
 ### GPT工具
 
-
 #### GPT工具-文档
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -150,11 +127,7 @@
 | PDF阅读 | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 798 | 以各种风格的语言阅读PDF、DOCX文件 | 该工具旨在帮助用户将文本从一种格式转换为另一种格式，以及使用 OpenAI API (model=gpt-3.5-turbo) 将其翻译成另一种语言。 目前支持PDF、DOCX、MOBI和EPUB文件格式转换翻译成EPUB文件及文本文件，可以将文字翻译成多种语言。 |
 | markdown文档 | [markprompt](https://github.com/motifland/markprompt) | 1.6k | 使用GPT4来阅读markdown文档 | 1.它扫描GitHub库里的 Markdown、 Markdoc 和 MDX 文件，并创建可用于创建提示的嵌入 |
 
-
 #### GPT工具-编程
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -168,11 +141,7 @@
 | 代码生成 | [aiac](https://github.com/gofireflyio/aiac) | 2.3k | 命令行的代码生成器 | 1.生成IaC2.生成docker、k8s配置3.生成CI/CD4.生成SQL |
 | 语言转换 | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.5k | 使用 AI 将代码从一种语言翻译成另一种语言。 |  |
 
-
 #### GPT工具-通用
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -180,11 +149,7 @@
 | 调教场景机器人-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.3k | 在几秒钟内创建自己的ChatGPT应用程序 | 1.创建各种场景的对话机器人，比如小红书、日报等 |
 | 调教场景机器人-03 | [Portal](https://github.com/lxfater/Portal) | 1.7k | Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT | 1.任意软件划词翻译2.自定义提示语模板3.对话管理 && 对话图生成 |
 
-
 #### GPT工具-音视频
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -192,11 +157,7 @@
 | 语音 | [speechgpt🔥](https://github.com/hahahumble/speechgpt) | 1.9k | SpeechGPT是一个允许您与ChatGPT语音谈话的web应用程序，口语练习 | 1.适配移动端2.支持超过100种语言3.语音陪练4.集成Azure的语音服务 |
 | 语言 | [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) | 1.2k | 一个开源的ChatGPT语音应用程序 | 1.集成ElevenLabs的语音服务2.支持docker部署 |
 
-
 #### GPT工具-其他
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | -- | --- | --- | --- | --- |
@@ -206,24 +167,15 @@
 | 讲故事 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 1.2k | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型 |  |
 | AR体验 | [ChatARKit](https://github.com/trzy/ChatARKit) | 328 | 使用ChatGPT以自然语言创建AR体验 | 1.基于Sketchfab-3D模型网站 |
 
-
 ### GPT插件
 
-
 #### GPT插件-官方
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | ChatGPT检索插件 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 13.7k | ChatGPT 检索插件让您可以通过使用日常语言提问来轻松搜索和查找个人或工作文档。 | 可以对个人或组织文档进行语义搜索和检索。它允许用户通过用自然语言提问或表达需求，从他们的数据源（如文件、笔记或电子邮件）中获取最相关的文档片段。企业可以使用此插件通过 ChatGPT 向员工提供内部文档。 |
 
-
 #### GPT插件-浏览器
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -238,17 +190,13 @@
 | ChatGPT增强插件 | [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) | 4.0k | 一个浏览器扩展，增强您的ChatGPT提示与网络结果。 | 1.这个浏览器扩展为ChatGPT添加了web访问功能。从聊天机器人获得更多相关和最新的答案! |
 | 语音插件-01 | [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) | 895 | 用你的声音与ChatGPT AI交谈，并通过声音听它的答案。 | 1.和ChatGPT语音交流!2.支持多种语言 |
 | 语音插件-02 | [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) | 145 | 嵌入ChatGPT作为免提语音助手。 | 1.ChassistantGPT支持60多种语言和方言。选择您的母语和自定义触发短语(可在选项卡中配置) |
-| 分享插件 | [sharegpt](https://github.com/domeccleston/sharegpt) | 879 | 轻松地共享ChatGPT对话的永久链接到https://sharegpt.com/ | 1.一键分享自己ChatGPT对话到https://sharegpt.com |
+| 分享插件 | [sharegpt](https://github.com/domeccleston/sharegpt) | 879 | 轻松地共享ChatGPT对话的永久链接到<https://sharegpt.com/> | 1.一键分享自己ChatGPT对话到<https://sharegpt.com> |
 | 阅读插件 | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 475 | arxiv论文使用ChatGPT | 1.能帮你读arxiv论文，在一些地方给出注解 |
 | 总结插件-01 | [summarize.site](https://github.com/clmnin/summarize.site) | 565 | 使用OpenAI ChatGPT总结网页 |  |
 | 总结插件-02 | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 557 | 它可以在Google搜索和Yuoutbe旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |  |
 | 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 518 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
 
-
 #### GPT插件-第三方应用
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
@@ -267,11 +215,7 @@
 | 3D软件Blender插件 | [BlenderGPT](https://github.com/gd3kr/BlenderGPT) | 3.2k | 在Blender上接入ChatGPT | 1.在只需要输入文本，即可快速构建3D模型 |
 | Siri插件 | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 2.6k | 通过 Siri 启动「快捷指令」连接 ChatGPT API，让 Siri 变身 AI 聊天助手 | 1.支持连续对话2.配置系统prompt3.保存聊天记录 |
 
-
 ### GPT开源平替机器人
-
-
-
 
 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- |
@@ -300,22 +244,14 @@
 | [wenda](https://github.com/l15y/wenda) | 801 | 闻达：一个大规模语言模型调用平台 | 1.目前支持模型：chatGLM-6B、chatRWKV、chatYuan。2.知识库自动查找3.支持参数在线调整 |
 | [minChatGPT](https://github.com/ethanyanjiali/minChatGPT) | 114 | 微型版ChatGPT，一个将语言模型与类似ChatGPT的RLHF对齐的最小示例 |  |
 
-
 ### 专业领域机器人
-
-
-
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | 生物医学机器人 | [BioGPT](https://github.com/microsoft/BioGPT) | 3.7k | 微软团队推出的基于生物医学研究文献的大型语言模型 | 1.提取诸如基因或疾病的生物医学实体2.可以回答生物医学问题的聊天机器人3.生物医学领域的总结和自动完成 |
 | 医生机器人 | [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 2.3k | 利用医学领域知识在LLaMA模型基础上改进的医学聊天模型 | 1.数据训练来自HealthCareMagic.com的20万次病人和医生之间的真实对话、来自icliniq.com的26k个病人和医生之间的真实对话 |
 
-
 ### Prompt对话指令
-
-
-
 
 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- |
@@ -328,11 +264,7 @@
 | [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) | 562 | ChatGPT"数据科学"指令 |  |
 | [The-Art-of-Asking-ChatGPT](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique) | 375 | 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南 |  |
 
-
 ### 其他（平台、逆向工程）
-
-
-
 
 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- |
@@ -342,51 +274,33 @@
 | [国内镜像站收集-01](https://github.com/xx025/carrot) | 8k | 收集国内免费ChatGPT镜像，替代品收录 |  |
 | [国内镜像站收集-02](https://github.com/GentleLemon/ChatGPT-Anything) | 26 | 收集国内免费ChatGPT镜像，替代品收录 |  |
 
-
-
-
 ---
-
 
 相关资料
 ----
 
-
-* [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
-* [开源-chatgpt-替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-* [ChatGPT工具，演示，文档列表](https://github.com/humanloop/awesome-chatgpt)
-
-
-
+- [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
+- [开源-chatgpt-替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- [ChatGPT工具，演示，文档列表](https://github.com/humanloop/awesome-chatgpt)
 
 ---
-
 
 贡献
 --
 
-
 这个awesome-open-gpt是我个人收集的关于GPT的有趣的开源项目，热烈欢迎你的贡献和建议，提交PR。
 
-
-
-
 ---
-
-
 
 技术交流
 --
 
-
 <img src='./images/qrcode.jpeg' width=30%  alt=""/><img src='./images/group_qrcode.jpeg' width=30%  alt=""/>
 
-加群前先看： 
+加群前先看：
 
 - 纯技术交流群，主要分享和交流GPT开源项目或者工具，欢迎技术同学加入
 - 还不知道怎么使用GPT的不用进了
 - 想通过群里推广卖号代充的不用进了
 
 ---
-
-
